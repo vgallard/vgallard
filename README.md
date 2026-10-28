@@ -26,7 +26,7 @@ Software Engineer | C/C++ | Linux | Kernel | Embedded | IOT | Containers | Debia
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,python,js,html,git,github,linux&perline=12"/>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,git,github,linux&perline=12"/>
 </p>
 
 ---
