@@ -46,8 +46,8 @@ Software Engineer | C/C++ | Linux | Kernel | Embedded | IOT | Containers | Debia
 </p>
 
 <p align="center">
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vgallad&theme=tokyonight"/>
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vgallad&theme=tokyonight"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vgallard&theme=tokyonight"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vgallard&theme=tokyonight"/>
 </p>
 
 <p align="center">
