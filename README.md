@@ -4,7 +4,7 @@ Software Engineer | C/C++ | Linux | Kernel | Embedded | IOT | Containers | Debia
 
 <p align="center">
   <a href="https://github.com/vgallard">
-    <img src="https://komarev.com/ghpvc/?username=BHUTUU&style=flat-square&color=blue" />
+    <img src="https://komarev.com/ghpvc/?username=vgallard&style=flat-square&color=blue" />
   </a>
 </p>
 
