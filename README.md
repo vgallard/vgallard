@@ -17,8 +17,9 @@ Software Engineer | C/C++ | Linux | Kernel | Embedded | IOT | Containers | Debia
 ## 🌐 Connect
 
 <p align="left">
-<a href="https://github.com/vgallard"><img src="https://skillicons.dev/icons?i=github"/></a>
 <a href="https://linkedin.com/in/victor-m-gallardo"><img src="https://skillicons.dev/icons?i=linkedin"/></a>
+<a href="https://github.com/vgallard"><img src="https://skillicons.dev/icons?i=github"/></a>
+<a href="mailto:victorgallardo@yahoo.com"><img src="https://skillicons.dev/icons?i=email"/></a>
 </p>
 
 ---
